@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438a64ab-03b9-42b0-9e0b-9a9a06b03fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/home.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/requests.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/employee.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/office.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/orderdetail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/payment.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/productline.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/databaseConnection.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/databaseConnection.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/customer.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/customer.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
