@@ -1,7 +1,7 @@
 package models
 
 type customer struct {
-	customerNumber int
+	customerNumber uint
 	customerName string
 	contactLastName string
 	contactFirstName string
@@ -12,7 +12,7 @@ type customer struct {
 	state string
 	postalCode string
 	country string
-	salesRepEmployeeNumber int
+	salesRepEmployeeNumber uint
 	creditLimit float
 }
 

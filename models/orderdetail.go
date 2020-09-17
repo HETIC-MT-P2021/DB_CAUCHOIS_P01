@@ -1,9 +1,9 @@
 package models
 
 type orderdetail struct {
-	orderNumber int
+	orderNumber uint
 	productCode string
-	quantityOrdered int
+	quantityOrdered uint
 	priceEach float
-	orderLineNumber int
+	orderLineNumber uint
 }

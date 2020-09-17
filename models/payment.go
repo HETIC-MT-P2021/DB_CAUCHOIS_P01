@@ -1,7 +1,7 @@
 package models
 
 type payment struct {
-	customerNumber int
+	customerNumber uint
 	checkNumber string
 	paymentDate date
 	amount float

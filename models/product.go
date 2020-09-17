@@ -7,7 +7,7 @@ type product struct {
 	productScale string
 	productVendor string
 	productDescription string
-	quantityInStock int
+	quantityInStock uint
 	buyPrice float
 	MSRP float
 }

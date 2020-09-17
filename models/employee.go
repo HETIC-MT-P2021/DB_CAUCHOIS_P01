@@ -1,12 +1,12 @@
 package models
 
 type employee struct {
-	employeeNumber int
+	employeeNumber uint
 	lastName string
 	firstName string
 	extension string
 	email string
 	officeCode string
-	reportsTo int
+	reportsTo uint
 	jobTitle string
 }
